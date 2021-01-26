@@ -1,0 +1,3 @@
+function exibirFuncao(){
+    alert("Atenção!");
+}
